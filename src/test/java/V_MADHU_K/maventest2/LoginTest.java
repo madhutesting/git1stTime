@@ -22,6 +22,7 @@ public class LoginTest {
 			dr.findElement(By.id("txtPassword")).sendKeys("Admin123");
 			dr.findElement(By.id("btnLogin")).click();
 			System.out.println("madhu");
+			System.out.println("vanapalli");
 			Assert.assertEquals(dr.getTitle(), "OrangeHRM");
 			
 			dr.close();
