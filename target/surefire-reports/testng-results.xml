@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="46362" started-at="2022-06-28T15:10:03 IST" finished-at="2022-06-28T15:10:49 IST">
+  <suite name="Surefire suite" duration-ms="48889" started-at="2022-06-29T11:38:30 IST" finished-at="2022-06-29T11:39:18 IST">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="46362" started-at="2022-06-28T15:10:03 IST" finished-at="2022-06-28T15:10:49 IST">
+    <test name="Surefire test" duration-ms="48889" started-at="2022-06-29T11:38:30 IST" finished-at="2022-06-29T11:39:18 IST">
       <class name="V_MADHU_K.maventest2.LoginTest">
-        <test-method status="PASS" signature="login()[pri:0, instance:V_MADHU_K.maventest2.LoginTest@3b0143d3]" name="login" duration-ms="46297" started-at="2022-06-28T15:10:03 IST" finished-at="2022-06-28T15:10:49 IST">
+        <test-method status="PASS" signature="login()[pri:0, instance:V_MADHU_K.maventest2.LoginTest@57536d79]" name="login" duration-ms="48615" started-at="2022-06-29T11:38:30 IST" finished-at="2022-06-29T11:39:18 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->

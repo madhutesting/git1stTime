@@ -23,6 +23,7 @@ public class LoginTest {
 			dr.findElement(By.id("btnLogin")).click();
 			System.out.println("madhu");
 			System.out.println("vanapalli");
+			System.out.println("amma");
 			Assert.assertEquals(dr.getTitle(), "OrangeHRM");
 			
 			dr.close();
