@@ -5,6 +5,8 @@ public class NewTest {
 		System.out.println("kishore");
 		System.out.println("person1 changes");
 		System.out.println("person1 changes");
+		System.out.println("person2 changes");
+		System.out.println("person2 changes");
 	}
 
 }
